@@ -7,13 +7,13 @@
 <p align="left">
   <a href="https://vudovn.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>&nbsp;
+  </a> 
   <a href="https://linkedin.com/in/vudovn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+  </a> 
   <a href="https://youtube.com/@vudovn" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;
+  </a> 
   <a href="https://facebook.com/vudovn.354" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -41,8 +41,8 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
