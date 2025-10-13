@@ -7,7 +7,7 @@
   <a target="_blank" href="https://vudovn.tech"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a target="_blank" href="https://www.tiktok.com/@vudovn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a target="_blank" href="https://soundcloud.com/vudovn"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
-  <a target="_blank" href="https://youtube.com/@vudovn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a target="_blank" href="https://www.instagram.com/vudovn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 </p>
 
