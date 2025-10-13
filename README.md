@@ -1,22 +1,13 @@
 # 👋 Hello, I'm Vũ Đỗ
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Backend+Web+Developer;Laravel+%2B+React" alt="Typing SVG" />
-</div>
-
-<p align="left">
-  <a href="https://vudovn.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a> 
-  <a href="https://linkedin.com/in/vudovn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://youtube.com/@vudovn" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> 
-  <a href="https://facebook.com/vudovn.354" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+<div align="left"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Backend+Web+Developer;Laravel+%2B+React" alt="Typing SVG" /> 
+</div> 
+<p align="left"> 
+  <a target="_blank" href="https://vudovn.tech"> <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a>
+  <a target="_blank" href="https://linkedin.com/in/vudovn/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://youtube.com/@vudovn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 </p>
 
 ---
