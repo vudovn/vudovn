@@ -29,6 +29,7 @@ Building elegant web solutions with a passion for clean code and beautiful UI. I
 
 ### Tools & Others
 
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p> </div>
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p> </div>
 
-<div align="center"> <img src="https://i.pinimg.com/736x/07/57/ff/0757ff5479a506b80513d83673790e53.jpg" alt="Profile Views" /> <p>If you like my work, maybe consider buying me a coffee!</p> <a href="https://www.buymeacoffee.com/vudovn"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> </div>
+<!-- <div align="center"> <img src="https://i.pinimg.com/736x/07/57/ff/0757ff5479a506b80513d83673790e53.jpg" alt="Profile Views" /> <p>If you like my work, maybe consider buying me a coffee!</p> <a href="https://www.buymeacoffee.com/vudovn"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> </div> -->
