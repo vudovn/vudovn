@@ -26,7 +26,7 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### 🔧 Backend
   <a href="https://skillicons.dev">
@@ -41,15 +41,8 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 ### ⚙️ Tools & Others
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,openai,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=postman,github,vscode,discord,figma" />
   </a>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
 
 </div>
 
