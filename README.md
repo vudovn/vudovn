@@ -29,18 +29,18 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 <div align="start">
 
 ### 🔧 Backend
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,php,laravel" />
   </a>
 
 ### 🎨 Frontend
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind,bootstrap" />
   </a>
 
 ### ⚙️ Tools & Others
 
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=postman,github,vscode,discord,figma" />
   </a>
 
@@ -55,12 +55,4 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vudovn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vudovn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</div>
----
-
-<div align="center">
-  <p>☕ If you like my work, maybe consider buying me a coffee!</p>
-  <a href="https://www.buymeacoffee.com/vudovn" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </div>
