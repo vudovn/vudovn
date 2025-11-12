@@ -11,7 +11,6 @@
   <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 </p>
 
----
 
 ## ✨ About Me
 
@@ -21,8 +20,6 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 - 🌱 Currently learning: **Frontend Development**
 - 💬 Ask me about: **Laravel, React, or REST APIs**
 - 📫 Reach me at: **vudevweb@gmail.com**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +43,6 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
