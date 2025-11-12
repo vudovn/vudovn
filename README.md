@@ -50,10 +50,12 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vudovn&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudovn&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+<p align="center">
+<a href="https://github.com/TonyThuyTu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TonyThuyTu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TonyThuyTu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
