@@ -27,24 +27,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Tech Stack
 
 <div align="start">
 
-### 🔧 Backend
+### - Backend
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb" />
 
-### 🎨 Frontend
+### - Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
 
-### ⚙️ Tools & Others
+### - Tools & Others
 <img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker" />
 
 </div>
 
 ---
 
-## 📈 GitHub Insights
+## ✨ GitHub Insights
 
 <div align="center">
   <a href="https://github.com/vudovn">
@@ -55,7 +55,7 @@
 
 ---
 
-## 💡 Fun Facts
+## ✨ Fun Facts
 - 🎧 Coding with lo-fi beats or SoundCloud remixes
 - 🧩 Loves problem-solving and system design
 - 🚀 Always open to learning and collaboration
