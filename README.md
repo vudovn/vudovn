@@ -29,7 +29,9 @@ I love building full-stack apps using **Laravel** and **modern JavaScript framew
 <div align="center">
 
 ### 🔧 Backend
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,php,laravel" />
+  </a>
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
