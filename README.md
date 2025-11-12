@@ -1,54 +1,66 @@
-# 👋 Hello, I'm Vũ Đỗ
+# 👋 Hey there! I'm Vũ Đỗ
 
-<div align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Backend+Web+Developer;Đừng+Để+Tao+Siuuuu+!!" alt="Typing SVG" /> 
-</div> 
-<p align="left"> 
-  <a target="_blank" href="https://vudovn.dev"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Backend+Web+Developer;Code+Hard,+Sleep+Rarely;Đừng+Để+Tao+Siuuuu+!!" alt="Typing Animation" />
+</div>
+
+<p align="left">
+  <a target="_blank" href="https://vudovn.dev"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a target="_blank" href="https://www.tiktok.com/@vudovn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a target="_blank" href="https://soundcloud.com/vudovn"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/vudovn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+  <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+---
 
 ## ✨ About Me
 
-A backend-focused web developer who turns ☕ **coffee** into clean, maintainable, and beautiful code.  
-I love building full-stack apps using **Laravel** and **modern JavaScript frameworks** to create smooth user experiences.
+☕ Turning coffee into **clean, maintainable, and scalable backend systems**.  
+💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
 
-- 🌱 Currently learning: **Frontend Development**
-- 💬 Ask me about: **Laravel, React, or REST APIs**
-- 📫 Reach me at: **vudevweb@gmail.com**
+- 🌱 Currently exploring **Frontend Development & Next.js**
+- 💬 Ask me about **Laravel, REST APIs, and full-stack architecture**
+- 📫 Reach me at: **[vudevweb@gmail.com](mailto:vudevweb@gmail.com)**
+
+> “Code is like humor — when you have to explain it, it’s bad.” 😎
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="start">
 
 ### 🔧 Backend
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,php,laravel" />
-  </a>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb" />
 
 ### 🎨 Frontend
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind,bootstrap" />
-  </a>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
 
 ### ⚙️ Tools & Others
-
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=postman,github,vscode,discord,figma" />
-  </a>
+<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker" />
 
 </div>
 
+---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <div align="center">
-<a href="https://github.com/vudovn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vudovn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vudovn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/vudovn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vudovn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudovn&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
 </div>
+
+---
+
+## 💡 Fun Facts
+- 🎧 Coding with lo-fi beats or SoundCloud remixes
+- 🧩 Loves problem-solving and system design
+- 🚀 Always open to learning and collaboration
+
+---
+
+⭐ *If you like what I do, consider giving my repos a star — it keeps me caffeinated!* ☕
+
