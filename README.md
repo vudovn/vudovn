@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vũ Đỗ
 
 <div align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Backend+Web+Developer;Đừng+Để+Tao+Siuuuu !!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Backend+Web+Developer;Đừng+Để+Tao+Siuuuu+!!" alt="Typing SVG" /> 
 </div> 
 <p align="left"> 
   <a target="_blank" href="https://vudovn.dev"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
