@@ -48,8 +48,8 @@
 
 <div align="center">
   <a href="https://github.com/vudovn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vudovn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudovn&layout=compact&langs_count=8&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vudovn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt"vudovn" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudovn&layout=compact&langs_count=8&theme=tokyonight"  alt"vudovn"/>
   </a>
 </div>
 
