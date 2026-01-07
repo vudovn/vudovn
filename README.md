@@ -44,7 +44,7 @@
 
 ---
 
-## ✨ GitHub Insights
+## ✨ GitHub Contribution
 
 <div align="center">
     <picture>
