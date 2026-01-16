@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
 
 ### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker" />
+<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker,openai" />
 
 </div>
 
