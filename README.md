@@ -20,7 +20,7 @@
 💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
 
 - 🌱 Currently exploring **Frontend Development & Next.js**
-- 💬 Ask me about **Laravel, REST APIs, and full-stack architecture**
+- 💬 Ask me about **Laravel, Nestjs, REST APIs, and full-stack architecture**
 - 📫 Reach me at: **[vudevweb@gmail.com](mailto:vudevweb@gmail.com)**
 
 > “Code is like humor — when you have to explain it, it’s bad.” 😎
