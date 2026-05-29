@@ -64,5 +64,5 @@
 ---
 
 ⭐ *If you like what I do, consider giving my repos a star — it keeps me caffeinated!* ☕
-<p> CA: Gjpatn3d24dCRhUng7F37K6xJba4R8SDBC18xs1Apump </p>
+<p>BASE CA: 0x1b145dbee7c63394b512a2f7b76181c94a314ba3 </p>
 
