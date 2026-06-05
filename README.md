@@ -5,7 +5,6 @@
 </div>
 
 <p align="left">
-  <a target="_blank" href="https://x.com/vudovn354"><img src="https://img.shields.io/badge/Vudovn-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/vudovn.354"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <!-- <a target="_blank" href="https://www.tiktok.com/@vudovn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
